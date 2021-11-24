@@ -1,0 +1,14 @@
+label{
+    display: block;
+    margin-top: 5px
+  }
+  table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  *{
+    color: blue
+  }
